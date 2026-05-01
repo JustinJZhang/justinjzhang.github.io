@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-05-01'
 papers:
   eAh9ne8AAAAJ:LkGwnXOMwfcC:
-    citations: 0
+    citations: 1
     title: 'ASAM: Anatomy-Encoded Segment Anything Model for Medical Images'
     year: '2025'
   eAh9ne8AAAAJ:Se3iqnhoufwC:
@@ -10,11 +10,11 @@ papers:
     title: Ultrasound Strain Imaging with Null Subtraction and Coded Plane Waves
     year: '2025'
   eAh9ne8AAAAJ:Tyk-4Ss8FVUC:
-    citations: 36
+    citations: 39
     title: Hierarchical perception adversarial learning framework for compressed sensing MRI
     year: '2023'
   eAh9ne8AAAAJ:WF5omc3nYNoC:
-    citations: 3
+    citations: 4
     title: Automatic centroid angle measurement from CT image for preoperative rod design of robotic-assisted screw-rod system implantation
     year: '2024'
   eAh9ne8AAAAJ:YsMSGLbcyi4C:
@@ -30,6 +30,6 @@ papers:
     title: A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool
     year: '2026'
   eAh9ne8AAAAJ:zYLM7Y9cAGgC:
-    citations: 18
+    citations: 19
     title: 'AttR2U-Net: a fully automated model for MRI nasopharyngeal carcinoma segmentation based on spatial attention and residual recurrent convolution'
     year: '2022'
