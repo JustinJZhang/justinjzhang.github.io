@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-27'
 papers:
   eAh9ne8AAAAJ:LkGwnXOMwfcC:
     citations: 1
@@ -22,14 +22,18 @@ papers:
     title: Lite class-prompt tiny-vit for multi-modality medical image segmentation
     year: '2024'
   eAh9ne8AAAAJ:_FxGoFyzp5QC:
-    citations: 0
+    citations: 1
     title: 'MSAF: A Multi-level Sensing Adversarial Framework for Signal Recovery in Synthetic Aperture Ultrasound'
     year: '2025'
+  eAh9ne8AAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Pyramid Self-contrastive Learning Framework for Test-time Ultrasound Image Denoising
+    year: '2026'
   eAh9ne8AAAAJ:roLk4NBRz8UC:
     citations: 0
     title: A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool
     year: '2026'
   eAh9ne8AAAAJ:zYLM7Y9cAGgC:
-    citations: 19
+    citations: 22
     title: 'AttR2U-Net: a fully automated model for MRI nasopharyngeal carcinoma segmentation based on spatial attention and residual recurrent convolution'
     year: '2022'
