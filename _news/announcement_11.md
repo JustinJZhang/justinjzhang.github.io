@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Oral presented at 2025 IEEE International Ultrasonics Symposium (IUS)
-date: 2025-09-17 00:00:00-0400
+title: I will attend the 2026 IEEE IUS on October 4 in North Carolina
+date: 2026-06-23 00:00:00-0400
 inline: false
 related_posts: false
 ---
 
-#### A Deep Learning-Assisted Ultrasound Imaging Workflow for Patient-Specific Carotid Artery Modeling and Phantom Fabrication
+Looking forward to meeting you at the conference!
 
-Baiqian Qi (speaker), Jiajing Zhang, Wei-Ning Lee
-
-[PDF](/assets/pdf/ius2025_baiqian.pdf)
+Welcome to my presentation about single-shot ultrasound image denoising.
