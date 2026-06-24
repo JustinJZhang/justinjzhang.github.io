@@ -46,16 +46,14 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4.html";
-            },},{id: "news-2-oral-and-1-poster-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",},{id: "news-2-oral-and-1-poster-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
           title: '2 Oral and 1 poster presented at 2025 IEEE International Ultrasonics Symposium (IUS)...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9.html";
-            },},{id: "news-poster-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
-          title: 'Poster presented at 2025 IEEE International Ultrasonics Symposium (IUS)',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_10.html";
             },},{id: "news-paper-accepted-at-ieee-journal-of-biomedical-and-health-informatics",
           title: 'Paper accepted at IEEE Journal of Biomedical and Health Informatics',
           description: "",
