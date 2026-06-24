@@ -56,11 +56,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10.html";
-            },},{id: "news-oral-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
-          title: 'Oral presented at 2025 IEEE International Ultrasonics Symposium (IUS)',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_11.html";
             },},{id: "news-paper-accepted-at-ieee-journal-of-biomedical-and-health-informatics",
           title: 'Paper accepted at IEEE Journal of Biomedical and Health Informatics',
           description: "",
@@ -81,6 +76,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_12.html";
+            },},{id: "news-i-will-attend-the-2026-ieee-ius-on-october-4-in-north-carolina",
+          title: 'I will attend the 2026 IEEE IUS on October 4 in North Carolina...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_11.html";
             },},{
         id: 'social-email',
         title: 'email',
