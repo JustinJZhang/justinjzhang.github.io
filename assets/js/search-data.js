@@ -46,8 +46,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4.html";
-            },},{id: "news-oral-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
-          title: 'Oral presented at 2025 IEEE International Ultrasonics Symposium (IUS)',
+            },},{id: "news-2-oral-and-1-poster-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
+          title: '2 Oral and 1 poster presented at 2025 IEEE International Ultrasonics Symposium (IUS)...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9.html";
