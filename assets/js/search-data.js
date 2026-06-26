@@ -46,10 +46,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4.html";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-poster-presented-at-2026-medical-imaging-ai-summit-hku",
+          title: 'Poster presented at 2026 Medical Imaging AI Summit HKU',
           description: "",
-          section: "News",},{id: "news-2-oral-and-1-poster-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10.html";
+            },},{id: "news-2-oral-and-1-poster-presented-at-2025-ieee-international-ultrasonics-symposium-ius",
           title: '2 Oral and 1 poster presented at 2025 IEEE International Ultrasonics Symposium (IUS)...',
           description: "",
           section: "News",handler: () => {
