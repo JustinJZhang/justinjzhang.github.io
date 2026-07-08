@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-07-08'
 papers:
   eAh9ne8AAAAJ:LkGwnXOMwfcC:
     citations: 1
     title: 'ASAM: Anatomy-Encoded Segment Anything Model for Medical Images'
     year: '2025'
   eAh9ne8AAAAJ:Se3iqnhoufwC:
-    citations: 0
+    citations: 1
     title: Ultrasound Strain Imaging with Null Subtraction and Coded Plane Waves
     year: '2025'
   eAh9ne8AAAAJ:Tyk-4Ss8FVUC:
@@ -22,7 +22,7 @@ papers:
     title: Lite class-prompt tiny-vit for multi-modality medical image segmentation
     year: '2024'
   eAh9ne8AAAAJ:_FxGoFyzp5QC:
-    citations: 1
+    citations: 0
     title: 'MSAF: A Multi-Level Sensing Adversarial Framework for Signal Recovery in Synthetic Aperture Ultrasound'
     year: '2025'
   eAh9ne8AAAAJ:hqOjcs7Dif8C:
