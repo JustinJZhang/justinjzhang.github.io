@@ -1,13 +1,17 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-12'
 papers:
+  eAh9ne8AAAAJ:5nxA0vEk-isC:
+    citations: 1
+    title: 'Nef-Net v2: Adapting Electrocardio Panorama in the wild'
+    year: '2026'
   eAh9ne8AAAAJ:LkGwnXOMwfcC:
     citations: 1
-    title: 'ASAM: Anatomy-Encoded Segment Anything Model for Medical Images'
+    title: 'ASAM: Anatomy-encoded segment anything model for medical images'
     year: '2025'
   eAh9ne8AAAAJ:Se3iqnhoufwC:
     citations: 1
-    title: Ultrasound Strain Imaging with Null Subtraction and Coded Plane Waves
+    title: Ultrasound strain imaging with null subtraction and coded plane waves
     year: '2025'
   eAh9ne8AAAAJ:Tyk-4Ss8FVUC:
     citations: 39
@@ -34,6 +38,6 @@ papers:
     title: A novel deep learning based automatic ultrasonic posterior cruciate ligament clinical assessment tool
     year: '2026'
   eAh9ne8AAAAJ:zYLM7Y9cAGgC:
-    citations: 22
+    citations: 23
     title: 'AttR2U-Net: a fully automated model for MRI nasopharyngeal carcinoma segmentation based on spatial attention and residual recurrent convolution'
     year: '2022'
