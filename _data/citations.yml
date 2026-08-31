@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-31'
 papers:
   eAh9ne8AAAAJ:5nxA0vEk-isC:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: 'ASAM: Anatomy-encoded segment anything model for medical images'
     year: '2025'
   eAh9ne8AAAAJ:Se3iqnhoufwC:
-    citations: 1
+    citations: 2
     title: Ultrasound strain imaging with null subtraction and coded plane waves
     year: '2025'
   eAh9ne8AAAAJ:Tyk-4Ss8FVUC:
