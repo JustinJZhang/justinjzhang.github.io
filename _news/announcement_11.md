@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	Poster presented at 2026 IEEE International Ultrasonics Symposium (IUS)
+title: Poster presented at 2026 IEEE International Ultrasonics Symposium (IUS)
 date: 2026-10-08 00:00:00-0400
 inline: false
 related_posts: false
