@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-#### Deep Coherence Disentanglement (DCD): Single-shot Ultrasound Image Denoising by Pyramid Self-Contrastive Learning
+#### Deep Coherence Disentanglement: Single-shot Ultrasound Image Denoising by Pyramid Self-Contrastive Learning
 
 Jiajing Zhang, Wei-Ning Lee
 
