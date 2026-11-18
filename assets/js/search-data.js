@@ -83,8 +83,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10.html";
-            },},{id: "news-i-will-attend-the-2026-ieee-ius-on-october-4-in-north-carolina",
-          title: 'I will attend the 2026 IEEE IUS on October 4 in North Carolina...',
+            },},{id: "news-poster-presented-at-2026-ieee-international-ultrasonics-symposium-ius",
+          title: 'Poster presented at 2026 IEEE International Ultrasonics Symposium (IUS)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11.html";
