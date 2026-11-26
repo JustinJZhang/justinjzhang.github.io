@@ -9,9 +9,13 @@ related_posts: false
 #### AI-empowered Echocardiography: from Computational Imaging to VLM-based Reasoning
 
 Speaker: Jiajing Zhang
+
 Organiser: Wei-Ning Lee
+
 Date: 24 Nov 2026 
+
 Time: 5:15-6:15 pm
+
 Venue: 603, Chow Yei Ching Building, The University of Hong Kong
 
 ---
