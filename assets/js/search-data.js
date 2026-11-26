@@ -88,6 +88,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11.html";
+            },},{id: "news-welcome-to-my-talk-on-ai-empowered-echocardiography",
+          title: 'Welcome to my talk on AI-empowered echocardiography',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/HKU_seminar.html";
             },},{
         id: 'social-email',
         title: 'email',
