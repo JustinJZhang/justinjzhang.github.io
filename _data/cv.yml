@@ -59,12 +59,13 @@ cv:
           - Building AI models and agents toward next-generation medical ultrasound imaging systems by enhancing image quality, increasing framerate, and improving robustness.
 
     Service:
-      - name: Reviewer
+      - name: Journal Reviewer
         highlights:
           - IEEE Transactions on Medical Imaging
+          - IEEE Journal of Biomedical and Health Informatics
           - IEEE Signal Processing Letters
 
       - name: Teaching Assistant
         highlights:
           - BMED 3603 Statistics and mathematical analysis for biomedical engineering
-          - BMED 3504 Biomedical Engineering Laboratory
+          - BMED 3504 Biomedical engineering laboratory
